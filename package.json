@@ -36,7 +36,7 @@
 		"mongoose": "^5.11.10",
 		"nodemailer": "^6.4.10",
 		"redis": "^3.0.2",
-		"validator": "^13.0.0",
+		"validator": "^13.5.2",
 		"winston": "^3.2.1"
 	},
 	"devDependencies": {
